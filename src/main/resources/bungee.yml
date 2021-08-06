@@ -1,0 +1,3 @@
+name: BungeeInfosServer
+version: ${project.version}
+main: fr.nitram.bungeeinfosserver.BungeeInfosServer
